@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">BirthdayGreetApp</string>
     <string name="create_birthday_card">Create Birthday Card</string>
-    <string name="enter_the_name">Enter the Name</string>
+    <string name="enter_the_name">Enter your Name</string>
     <string name="input_hint_text">Shubham Patwarika</string>
+    <string name="happybirthday">HappyBirthday</string>
 </resources>
