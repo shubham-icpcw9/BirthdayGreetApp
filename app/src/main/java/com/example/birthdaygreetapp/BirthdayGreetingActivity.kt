@@ -1,7 +1,6 @@
 package com.example.birthdaygreetapp
 
 import android.annotation.SuppressLint
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_birthday_greeting.*
